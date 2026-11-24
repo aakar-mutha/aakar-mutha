@@ -1,8 +1,8 @@
 # Aakar Mutha
 
-**Full-stack & AI engineer** building product systems, AI agent platforms, and cloud infrastructure — from product UX down to the data platform.
+**Full-stack & AI engineer** at **[Kaaj](https://kaaj.ai)**, based in Pune. Building product systems, AI agent platforms, and cloud infrastructure — from product UX down to the data platform.
 
-Currently open to my next opportunity. More at **[aakar.dev](https://aakar.dev)** · **[Résumé](https://aakar.dev/resume)** · **[LinkedIn](https://www.linkedin.com/in/aakar-mutha/)** · **[X](https://x.com/aakarmutha)** · **[Email](mailto:aakar.mutha18@gmail.com)**
+More at **[aakar.dev](https://aakar.dev)** · **[Résumé](https://aakar.dev/resume)** · **[LinkedIn](https://www.linkedin.com/in/aakar-mutha/)** · **[X](https://x.com/aakarmutha)** · **[Email](mailto:aakar.mutha18@gmail.com)**
 
 ---
 
@@ -28,6 +28,7 @@ Currently open to my next opportunity. More at **[aakar.dev](https://aakar.dev)*
 
 ### Background
 
+- **Currently @ [Kaaj](https://kaaj.ai)**
 - **Senior Software Engineer @ [Kibu](https://kibu.com)** *(Feb 2026 – Aug 2026)* — Led the Auth0 → WorkOS migration across web, mobile, and TV; architected Clara Insights (per-org MotherDuck warehouses, Vercel Workflows, NL→SQL); built HIPAA/SOC 2 PHI audit logging (~400k writes/day) and Parquet/S3/Athena archival pipelines; consolidated observability and ops tooling.
 - **Founding Engineer @ [Global Key Solutions](https://www.globalkeysolutions.net)** *(Aug 2025 – Feb 2026)* — Built an event-driven Kubernetes regulatory document pipeline spanning 12 international agencies and a CrewAI multi-agent RAG system (4 specialized agents, 20+ tools).
 - **Previously** — Contract Senior Software Engineer at **BMC Media LLC** (LLM scrapers, Next.js/API latency optimization, Meilisearch), Software Engineer at **[Peritys](https://www.peritys.com/)** (Kubernetes + Istio optimization across 20+ services), and Software Engineer at **[Bajaj Finserv](https://www.bajajfinservmarkets.in/)**.
